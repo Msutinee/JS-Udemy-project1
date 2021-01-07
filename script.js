@@ -10,3 +10,4 @@ document.querySelector('.guess').value = 23;
 console.log(document.querySelector('.guess').value);
 
 console.log();
+console.log();
