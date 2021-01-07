@@ -11,3 +11,4 @@ console.log(document.querySelector('.guess').value);
 
 console.log();
 console.log();
+console.log('Hello');
